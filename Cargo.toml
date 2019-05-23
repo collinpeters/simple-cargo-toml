@@ -1,6 +1,6 @@
 [package]
 name = "simple-cargo-toml"
-version = "0.0.4"
+version = "0.0.5"
 authors = ["Collin Peters <collin.peters@gmail.com>"]
 license = "MIT/Apache-2.0"
 description = "Foo"
